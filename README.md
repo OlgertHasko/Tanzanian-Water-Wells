@@ -14,10 +14,10 @@ Tanzania is an East African country with about 59,678,000 in population (2021 es
 
 A local NGO is focused on finding and replacing water wells that need repair. Our classification model is being used to predict which wells may need repair using various information such as when each well was installed, who funded the project, population around each well and etc. 
 
-**Our goal is to provide answers to questions such as:**
-What companies or organizations are more effective at maintaining their wells?
-What factors influence whether a well may be broken or needing repair?
-Could we be able to roughly guess how long a well will last before breaking or needing repair?
+**Our goal is to provide answers to questions such as:**<br />
+What companies or organizations are more effective at maintaining their wells?<br />
+What factors influence whether a well may be broken or needing repair?<br />
+Could we be able to roughly guess how long a well will last before breaking or needing repair?<br />
 Is there a correaltion between the population and functional wells?
 
 ***
@@ -26,10 +26,10 @@ Is there a correaltion between the population and functional wells?
 
 We are using the Tanzanian Water Wells data set hosted by DrivenData and a part of the active competition [Pump it Up: Data Mining the Water Table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/). We were provided with 3 datasets in total. 
 
-This is a basic overview of each dataset:
-Training set values: 59,400 observations, 40 variables
-Test set: 14,850 observations, 40 variables
-Training set labels: 59,400 observations; which contains our target variable which is 'status_group'
+This is a basic overview of each dataset:<br />
+Training set values: 59,400 observations, 40 variables<br />
+Test set: 14,850 observations, 40 variables<br />
+Training set labels: 59,400 observations; which contains our target variable which is 'status_group'<br />
 
 'status_group' has the following well categories of 'Functional', 'Functional needs repair', and 'Nonfunctional' 
 
