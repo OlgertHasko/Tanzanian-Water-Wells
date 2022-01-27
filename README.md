@@ -1,6 +1,6 @@
 # Tanzanian Water Wells: Classification Analysis
 
-![intro_img](https://flatiron-school.slack.com/files/U02MT1HDU7P/F030HHQ5AD9/carrying_water.jpeg)
+![intro_img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViQi4iXHyV60RZCIarzcONNB9xso0WumPSg&usqp=CAU)
 
 **Authors**: Olgert Hasko, Ross McKim, Hatice Erdogan, Madoria Thomas
 
