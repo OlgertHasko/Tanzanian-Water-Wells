@@ -1,20 +1,21 @@
 # Tanzanian Water Wells: Classification Analysis
 
-![intro_img](https://user-images.githubusercontent.com/84855671/151582831-80e1a279-22c3-4649-9be6-fdd8f660e8a0.png)
+![image](https://user-images.githubusercontent.com/84855671/151582831-80e1a279-22c3-4649-9be6-fdd8f660e8a0.png)
 
 **Authors**: Olgert Hasko, Ross McKim, Hatice Erdogan, Madoria Thomas
 
 ## Overview
 
-[Tanzania](https://www.britannica.com/place/Tanzania) is an East African country with about 59,678,000 in population (2021 est.), and located just south of the Equator. Despite their rapidly expanding tourism market and being high in agriculture cultivation, Tanzania is a developing country that still has struggles with providing clean water to its entire population. There are many water points already established in the country, but some are in great need of repair while others have failed altogether.
+[Tanzania](https://www.britannica.com/place/Tanzania) is an East African country with about 59,678,000 in population (2021 est.), and located just south of the Equator. Tanzania is a developing country that has struggles with providing clean water to its entire population. There are many water points already established in the country, but some are in great need of repair while others have failed altogether. Water availability has a major impact on the health, well-being, and economic potential of the people. 
 
 ***
 
 ## Business Problem
 
-Our NGO, Danida, is focused on finding and replacing water wells that need repair. Our classification model is being used to better predict which wells in the area are operational, need repairs or are non-functional using various information such as when each well was installed, who funded the project, population around each well and etc. 
+Our NGO, Danida, is focused on finding and replacing water wells that need repair. Our classification model is being used to better predict which wells in the area are operational, need repairs or are non-functional using various information such as when each well was installed, who funded the project, and population around each well. Any improvement in determining the best wells to install or in the predictability of which wells need repairs could have an enormous impact on the people of Tanzania. 
 
 **Our goal is to provide answers to questions such as:**<br />
+Can we better predict which wells will become non-functional or need repair?
 What factors influence whether a well may be broken or needing repairs?<br />
 What companies or organizations are more effective at maintaining their wells?<br />
 Best water extraction options to keep well operational?<br />
