@@ -1,9 +1,6 @@
 # Tanzanian Water Wells: Classification Analysis
 
-![intro_img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViQi4iXHyV60RZCIarzcONNB9xso0WumPSg&usqp=CAU)
-
-
-![image](https://user-images.githubusercontent.com/84855671/151582831-80e1a279-22c3-4649-9be6-fdd8f660e8a0.png)
+![intro_img](https://user-images.githubusercontent.com/84855671/151582831-80e1a279-22c3-4649-9be6-fdd8f660e8a0.png)
 
 **Authors**: Olgert Hasko, Ross McKim, Hatice Erdogan, Madoria Thomas
 
