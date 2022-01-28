@@ -36,7 +36,7 @@ Training set labels: 59,400 observations; which contains our target variable whi
 ***
 ## Methods
 
-We are doing an iterative classification analysis on the functionality of water wells in Tanzania. We made multiple alterations in the process while comparing the improvements for each model built. We started off first with a Dummy model to get our baseline predictions. Then we moved on to Logistic Regression, Decision Trees, ExtraTrees, HistGradientBoost, Random Forest, and finally we Catboosted to achieve our final results. 
+We are doing an iterative classification analysis on the functionality of water wells in Tanzania. We made multiple alterations in the process while comparing the improvements for each model built. We started off first with a Dummy model to get our baseline predictions. Then we moved on to Logistic Regression, Decision Trees, ExtraTrees, HistGradientBoost, Catboosted, and finally a Random Forest to achieve our final results. 
 
 ***
 
