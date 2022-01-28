@@ -54,7 +54,6 @@ We used several machine learning models to test predictability in our prediction
 -Gravity<br />
 -Handpump<br />
 
-**Prioritize wells which provide for larger communities**
 
 ***
 ## For More Information
