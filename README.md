@@ -29,12 +29,14 @@ We are using the Tanzanian Water Wells data set hosted by DrivenData and as part
 This is a basic overview of each dataset:<br />
 Training set values: 59,400 observations, 40 variables<br />
 Test set: 14,850 observations, 40 variables<br />
-Training set labels: 59,400 observations; which contains our target variable which is 'status_group'<br />. 'status_group' has the following well categories of 'Functional', 'Functional needs repair', and 'Nonfunctional' 
+Training set labels: 59,400 observations; which contains our target variable which is 'status_group'<br />. 'status_group' uses categories of 'Functional', 'Functional needs repair', and 'Nonfunctional' to describe wells.
 
 ***
 ## Methods
 
-We are doing an iterative classification analysis on the functionality of water wells in Tanzania. We made multiple alterations in the process while comparing the improvements for each model built. We started off first with a Dummy model to get our baseline predictions. Then we moved on to Logistic Regression, Decision Trees, ExtraTrees, HistGradientBoost, Random Forest, and finally we Catboosted to achieve our final results. 
+We began by review data set for null values and errors. Null values were replaced by appropriate values (median for numerical values and "unknown" for categorical values) and a number of redundant or unnecessary columns were taken out. Construction years were turned into 10 year bins by decade. 
+
+We used several machine learning models to test predictability in our predictions of the well functional status. We started off first with a Dummy model to get our baseline predictions. We then tried these models to determine the best predictability: Logistic Regression, Decision Trees, ExtraTrees, HistGradientBoost, Random Forest, and finally we Catboosted to achieve our final results. 
 
 ***
 
