@@ -46,7 +46,7 @@ We used several machine learning models to test predictability in our prediction
 
 ***
 ## Recommendations and Conclusions
-**We have identified the regions that need the most assistance:<br />**
+**We have identified the regions with the largest numbers of wells that are either broken or need repairs. These regions should be prioritized in that there are many non functional or wells needing repair that are near each other.:<br />**
 -Lindi (1816 non functional wells)<br />
 -Mtwara (638 wells need repairs)<br />
 
