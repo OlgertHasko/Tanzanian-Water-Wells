@@ -41,7 +41,7 @@ We used several machine learning models to test predictability in our prediction
 
 ## Results
 
-
+Through our machine learning model process, we improved the baseline recall and accuracy score from 45% to almost 80%. We focused on recall because our goal is to predict non functional wells and those needing repair.
 
 ***
 
