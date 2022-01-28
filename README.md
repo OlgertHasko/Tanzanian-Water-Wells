@@ -59,7 +59,7 @@ We used several machine learning models to test predictability in our prediction
 ***
 ## For More Information
 
-Please review our full analysis in our [EDA](https://github.com/OlgertHasko/Tanzanian-Water-Wells/blob/main/EDA.ipynb) and [Final](https://github.com/OlgertHasko/Tanzanian-Water-Wells/blob/main/Final.ipynb) Jupyter Notebooks or our presentation.
+Please review our full analysis in our [EDA](https://github.com/OlgertHasko/Tanzanian-Water-Wells/blob/main/EDA.ipynb) and [Final](https://github.com/OlgertHasko/Tanzanian-Water-Wells/blob/main/Final.ipynb) Jupyter Notebooks or our [presentation](https://github.com/OlgertHasko/Tanzanian-Water-Wells/blob/main/Tanzania%20Water%20Well.pdf).
 
 If you have any additional questions about our project, please feel free to contact us at:<br />
 **Olgert Hasko: https://www.linkedin.com/in/olgert-hasko-47519097/**<br />
@@ -72,6 +72,7 @@ If you have any additional questions about our project, please feel free to cont
 ## Repository Structure
 
 ```
+├── Tanzania Water Well.pdf
 ├── README.md                           
 ├── Final.ipynb   
 ├── EDA.ipynb
