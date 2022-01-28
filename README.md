@@ -63,3 +63,16 @@ If you have any additional questions about our project, please feel free to cont
 **Ross McKim: https://www.linkedin.com/in/ross-mckim/**<br />
 **Hatice Erdogan: https://www.linkedin.com/in/haticekastan/**<br />
 **Madoria Thomas: https://www.linkedin.com/in/madoria-thomas-2b9637133/**<br />
+
+***
+
+## Repository Structure
+
+```
+├── README.md                           
+├── Final.ipynb   
+├── EDA.ipynb
+├── catboost_info
+├── Models                                
+└── Data                              
+```
