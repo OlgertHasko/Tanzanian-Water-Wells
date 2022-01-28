@@ -16,27 +16,25 @@ Our NGO, Danida, is focused on finding and replacing water wells that need repai
 
 **Our goal is to provide answers to questions such as:**<br />
 Can we better predict which wells will become non-functional or need repair?
-What factors influence whether a well may be broken or needing repairs?<br />
+What factors most influence whether a well may be broken or needing repairs?<br />
 What companies or organizations are more effective at maintaining their wells?<br />
-Best water extraction options to keep well operational?<br />
+What are the best water extraction options to keep wells operational?<br />
 
 ***
 
 ## Data
 
-We are using the Tanzanian Water Wells data set hosted by DrivenData and a part of the active competition [Pump it Up: Data Mining the Water Table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/). We were provided with 3 datasets in total with dates ranging from 1960- 2013. 
+We are using the Tanzanian Water Wells data set hosted by DrivenData and as part of the active competition [Pump it Up: Data Mining the Water Table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/). We were provided with 3 datasets in total with dates ranging from 1960- 2013. 
 
 This is a basic overview of each dataset:<br />
 Training set values: 59,400 observations, 40 variables<br />
 Test set: 14,850 observations, 40 variables<br />
-Training set labels: 59,400 observations; which contains our target variable which is 'status_group'<br />
-
-'status_group' has the following well categories of 'Functional', 'Functional needs repair', and 'Nonfunctional' 
+Training set labels: 59,400 observations; which contains our target variable which is 'status_group'<br />. 'status_group' has the following well categories of 'Functional', 'Functional needs repair', and 'Nonfunctional' 
 
 ***
 ## Methods
 
-We are doing an iterative classification analysis on the functionality of water wells in Tanzania. We made multiple alterations in the process while comparing the improvements for each model built. We started off first with a Dummy model to get our baseline predictions. Then we moved on to Logistic Regression, Decision Trees, ExtraTrees, HistGradientBoost, Random Forest, and finally a Catboost to achieve our final results. 
+We are doing an iterative classification analysis on the functionality of water wells in Tanzania. We made multiple alterations in the process while comparing the improvements for each model built. We started off first with a Dummy model to get our baseline predictions. Then we moved on to Logistic Regression, Decision Trees, ExtraTrees, HistGradientBoost, Random Forest, and finally we Catboosted to achieve our final results. 
 
 ***
 
