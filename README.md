@@ -41,7 +41,9 @@ We used several machine learning models to test predictability in our prediction
 
 ## Results
 
-Through our machine learning model process, we improved the baseline recall and accuracy score from 45% to almost 80%. We focused on recall because our goal is to predict non functional wells and those needing repair.
+Through our machine learning model process, we improved the baseline recall of 45% and accuracy score from 45% to almost 80%. We focused on recall because our goal is to predict non functional wells and those needing repair.
+
+Our confusion matrix produce predictability of 90% for Functional Wells: 75% for non-functional wells, and 26% for wells which needs repairs. 
 
 ***
 
@@ -58,7 +60,7 @@ Through our machine learning model process, we improved the baseline recall and 
 
 **The top payment types are "annually" and "per bucket", and water sources are spring, river, and rainwater harvesting.<br />**
 
-**Use our model to predict non functional wells**
+**Our number one recommendation is to use our model to predict which wells are likely to need repair or are likely to stop working. This can be used for much more cost-effective preventative maintenance**
 
 ***
 ## Next Steps
